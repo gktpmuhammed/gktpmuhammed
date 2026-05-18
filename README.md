@@ -36,6 +36,9 @@ Research on radiology report generation from 3D CT volumes, including:
 - clinical and language-based evaluation pipelines,
 - attention visualization and error analysis.
 
+Repository: [medical-vlm-radiology-report-generation](https://github.com/gktpmuhammed/medical-vlm-radiology-report-generation)  
+Implementation workspace: [fvlm](https://github.com/gktpmuhammed/fvlm)
+
 ### Prostate Cancer Aggressiveness Prediction
 
 End-to-end PET/MRI deep learning pipeline for prostate cancer aggressiveness prediction:
