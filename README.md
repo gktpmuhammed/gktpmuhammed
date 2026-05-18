@@ -5,10 +5,24 @@ AI Engineer focused on practical machine learning systems, with work across medi
 ## Focus Areas
 
 - Medical Computer Vision
+- Generative AI for satellite imagery and climate-aware remote sensing
 - Vision-Language Models for 3D CT understanding
 - LLM pipelines and structured extraction
 - Applied AI systems that connect models with real workflows
 - RAG, evaluation, and automation tooling
+
+## Selected Publication
+
+### EcoMapper: Generative Modeling for Climate-Aware Satellite Imagery
+
+First-author ICML 2025 paper on climate-aware satellite image generation with diffusion models.
+
+- Built around a globally distributed dataset of 2.9M Sentinel-2 images.
+- Fine-tunes Stable Diffusion 3 for climate- and land-cover-conditioned satellite image generation.
+- Uses ControlNet for multi-conditional generation with image and text inputs.
+- Targets environmental forecasting, land cover monitoring, and climate scenario analysis.
+
+Links: [Paper](https://proceedings.mlr.press/v267/goktepe25a.html) · [Code](https://github.com/maltevb/ecomapper) · [ICML Poster](https://icml.cc/virtual/2025/poster/44910)
 
 ## Featured Work
 
